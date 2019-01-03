@@ -16,3 +16,4 @@ export default class CoordinatesButton extends React.Component {
       );
     }
 }
+:
