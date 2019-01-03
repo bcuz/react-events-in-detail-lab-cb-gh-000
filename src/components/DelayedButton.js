@@ -7,5 +7,4 @@ export default class DelayedButton extends React.Component {
         <button>Tickle me!</button>
       );
     }
-
 }
